@@ -1,2 +1,3 @@
 # ARDUINO-GEMINI-API---IMAGE-RECOGNITION
 This code connects ESP32 to gemini using its api. The version of gemini used in the code is 3.5 flash lite. The code is very simple and shortened. The code takes a captured image converts it to base 64 and sends it to gemini in a url form. the code works for AI-THINKER ESP32 CAM but you can change the pin config to you esp32 cam (eg. esp-eye).To activate the sequence you need to type the command "CAMGET64" in the serial terminal on baud rate 115200.  
+This code was orignaly made by me around march 2026but im uploading it just now on github.
